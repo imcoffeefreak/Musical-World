@@ -723,7 +723,7 @@
 	<!-- //smooth-scrolling-of-move-up -->
 	<!-- Bootstrap Core JavaScript -->
 	<script src="js/bootstrap.js"></script>
-	<!-- //Bootstrap Core JavaScript -->
+	
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sweetalert2@7.28.11/dist/sweetalert2.min.js"></script>
 </body>
 
