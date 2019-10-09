@@ -27,7 +27,7 @@
             	echo 'setTimeout(function () { sweetAlert("Warning","<b> You have already added this song to your favorite list!!...</b>","error");';
             	echo '}, 500);</script>';
 			}else{
-
+			// This is comment
 			$sql = "SELECT * FROM kannada_albums WHERE song_id = '$song_id' ";
 			$results = mysqli_query($conn,$sql);
 
